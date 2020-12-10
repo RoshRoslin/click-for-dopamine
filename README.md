@@ -1,4 +1,4 @@
 # Click for Dopamine
 Silly app for fun.
 
-View Live on https://roshroslin.github.io/ColorFlipper/
+View Live on https://roshroslin.github.io/click-for-dopamine/
